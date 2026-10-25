@@ -1,0 +1,23 @@
+# Quản lý và tải dữ liệu
+huggingface_hub>=0.20.0
+datasets>=2.14.0
+
+# Xử lý âm thanh (Machine Audition)
+librosa>=0.10.0
+soundfile>=0.12.1
+scipy>=1.10.0
+
+# Xử lý ảnh và thị giác máy tính (Image Processing & Computer Vision)
+opencv-python>=4.8.0
+pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Học sâu và tính toán số học
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+
+# Trực quan hóa và Notebook
+matplotlib>=3.7.0
+tqdm>=4.65.0
+notebook>=7.0.0
